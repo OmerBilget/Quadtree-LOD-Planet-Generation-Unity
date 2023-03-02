@@ -8,7 +8,7 @@ Seamless parallel dynamic planetary terrain generation on runtime using cubemap 
  customizable resolution and distance parameters  
  no garbage produced  
  seams that generated with heightmap resolution differences stitched  
- I used fixed sixe arrays so vertice fixed size should change accordingly to the resolution  
+ I used fixed size arrays so vertice fixed size should change accordingly to the resolution  
  collision mesh added so you can land on planet
 
 ### Screenshots
